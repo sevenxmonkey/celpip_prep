@@ -63,7 +63,7 @@ You have registered for a six-month computer training program at Sambro Communit
 - Describe your requirements for the room.
 - Ask about costs and the application process.
 
-### `My polished answer`
+### `李思嘉姐姐求您帮我改这一篇`
 Dear Sambro Housing Agency,
 
 My name is Seven. I just registered for the computer training program at Sambro Community College and would like to rent a room from your agency. My program will be 6 months from August to December. I hope my rent will start on August 20, which is 7 days before the training start date so I can enough time to settle down everything and be well prepared.
