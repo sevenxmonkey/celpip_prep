@@ -50,3 +50,28 @@ There are individuals including myself who purchase the print version for collec
 Additionally, there are a lot of senior citizens who have difficulties using online reading applications. Some subscribers have the habit of reading print newspapers for most of their life. It is hard to imagine what their life is going to be one day the print newspaper disappears. 
 
 Therefore, although the number of online subscribers is now greater than that of the print versions, I still think it will be more beneficial to keep both of them.
+
+
+# Set 1 Test 2
+
+## Task 1
+
+### Read the following information.
+You have registered for a six-month computer training program at Sambro Community College. You want to rent a room from Sambro Housing Agency.
+### Write an email to the agency in about 150-200 words. Your email should do the following things:
+- Explain when you need to rent the room.
+- Describe your requirements for the room.
+- Ask about costs and the application process.
+
+### `My polished answer`
+Dear Sambro Housing Agency,
+
+My name is Seven. I just registered for the computer training program at Sambro Community College and would like to rent a room from your agency. My program will be 6 months from August to December. I hope my rent will start on August 20, which is 7 days before the training start date so I can enough time to settle down everything and be well prepared.
+
+It would be best there is a studio for me with one bedroom and one bathroom. If a that is not available, it is also fine to live with one or two roommates. But I still want to have my own bedroom and bathroom. I would appreciate it if my roommate is also a female and ideally she is a student from the same program with me so we can help with each other about the training stuff.
+
+I really appreciate it if I can get more information such as room availabilities, cost, and application process from you. Please let me know if I need to provide you with any extra information or material. I'm looking forward to hearing back from you.
+
+Best,
+
+Seven Xu

@@ -29,3 +29,16 @@
 - No matter how late I walked back to home, she was always being there and walking with me in the dark street.
 - 
 - She was the light in the dark, the angel in my lonely and tough daily life at that time. I won't forget her.
+
+### Describe some things that are happening in the picture below as well as you can. The person with whom you are speaking cannot see the picture.
+
+- `buffet` 自助餐厅
+- `waitress` 女服务员
+- `waiter` 服务员
+- service counter
+- work clothes
+- fast food resturant
+- baby carriage
+- business suit
+- `sence` 场景
+- `mop` 拖把
