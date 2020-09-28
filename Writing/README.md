@@ -39,7 +39,7 @@ Your local newspaper is experiencing low sales of its newspapers since many read
 
 - Option B: Keep producing both the print and online versions.
 
-### `My polished answer`
+### `Polished answer`
 
 I suggest keeping producing both the print and online versions for the benefit of our media diversity, the unique cultural value of newspapers, as well as the wellness of senior citizens.
 
@@ -63,15 +63,35 @@ You have registered for a six-month computer training program at Sambro Communit
 - Describe your requirements for the room.
 - Ask about costs and the application process.
 
-### `李思嘉姐姐求您帮我改这一篇`
+### `Polished answer`
 Dear Sambro Housing Agency,
 
-My name is Seven. I just registered for the computer training program at Sambro Community College and would like to rent a room from your agency. My program will be 6 months from August to December. I hope my rent will start on August 20, which is 7 days before the training start date so I can enough time to settle down everything and be well prepared.
+My name is Seven. I just registered for the computer training program at Sambro Community College and would like to rent a room from your agency. I need to rent a room for six months starting on August 20, which is 7 days before the training start date so I can enough time to settle down everything and be well prepared.
 
-It would be best there is a studio for me with one bedroom and one bathroom. If a that is not available, it is also fine to live with one or two roommates. But I still want to have my own bedroom and bathroom. I would appreciate it if my roommate is also a female and ideally she is a student from the same program with me so we can help with each other about the training stuff.
+Ideally, I prefer to rent a studio or a 1-bedroom-1-bathroom apartment. If that is unavailable, I am fine with living with 1~2 roommates at most, and still, have my bathroom. As for roommate requirements, female roommates from the same program as me would be my preferences since we might have more common things to share both for school and life.
 
-I really appreciate it if I can get more information such as room availabilities, cost, and application process from you. Please let me know if I need to provide you with any extra information or material. I'm looking forward to hearing back from you.
+I would appreciate it if I can get more information such as room availabilities, cost, and application process provided. Please let me know if I need to send over any extra information or material. I'm looking forward to hearing back from you.
 
 Best,
 
 Seven Xu
+
+## Task 2
+
+### Read the following information.
+Work-from-Home Survey
+
+Your company wants to allow some employees to work from home. Not everyone can have this choice because some jobs must be done at the office. The company wants to know if this is fair by surveying your opinion about working from home.
+
+### Choose the option that you prefer. Why do you prefer your choice? Explain the reasons for your choice. Write about 150-200 words.
+- Option A: A work-from-home choice is fair.
+- Option B: A work-from-home choice is not fair.
+
+### `李思嘉姐姐求您帮我改这一篇`
+I do not believe a work-from-home choice would be beneficial for building our company culture as well as the long term development of all employees. 
+
+Firstly, it is difficult for career managers to give fair evaluations of their work performance. Employees are very easy to skip their job duty without on-site supervision. From my personal experience, there are individuals who sometimes set their status to be "online" at the office APP but actually do their personal stuff, but finally get the same salary with those who work very hard. Therefore, both the employees' career growth and the efficiency of our company will be greatly decreased.
+
+In addition, it is unfair for employees whose work must be done at the office. It is universally acknowledged that working from home is much more comfortable than sitting in the office for the whole day. Therefore, the policy would become a privilege for those who can work remotely. It will develop a huge gap between different groups of employees which is extremely negative to our company culture.
+
+To sum up, in order to have a better teamwork environment and working efficiency we would better not have the work-from-home choice policy.
