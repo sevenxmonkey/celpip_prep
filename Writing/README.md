@@ -88,7 +88,7 @@ Your company wants to allow some employees to work from home. Not everyone can h
 - Option B: A work-from-home choice is not fair.
 
 ### `李思嘉姐姐求您帮我改这一篇`
-I do not believe a work-from-home choice would be beneficial for building our company culture as well as the long term development of all employees. 
+I think a work-from-home choice is not fair because it is harmful for our company culture as well as the long term development of all employees. 
 
 Firstly, it is difficult for career managers to give fair evaluations of their work performance. Employees are very easy to skip their job duty without on-site supervision. From my personal experience, there are individuals who sometimes set their status to be "online" at the office APP but actually do their personal stuff, but finally get the same salary with those who work very hard. Therefore, both the employees' career growth and the efficiency of our company will be greatly decreased.
 
