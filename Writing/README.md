@@ -87,11 +87,37 @@ Your company wants to allow some employees to work from home. Not everyone can h
 - Option A: A work-from-home choice is fair.
 - Option B: A work-from-home choice is not fair.
 
-### `李思嘉姐姐求您帮我改这一篇`
-I do not believe a work-from-home choice would be beneficial for building our company culture as well as the long term development of all employees. 
+### `Polished answer`
+Having partially employees work from home is harmful for our company culture as well as the long term development of all employees. It is not a fair policy for any company.
 
-Firstly, it is difficult for career managers to give fair evaluations of their work performance. Employees are very easy to skip their job duty without on-site supervision. From my personal experience, there are individuals who sometimes set their status to be "online" at the office APP but actually do their personal stuff, but finally get the same salary with those who work very hard. Therefore, both the employees' career growth and the efficiency of our company will be greatly decreased.
+Firstly, Employees are very easy to skip their job duty without on-site supervision. It is difficult for managers to evaluate subordinates' work performances. From my personal experience, there are individuals who sometimes set their status to be "online" at the office APP but actually do their personal stuff, but finally get the same salary with those who work very hard. Therefore, both the employees' career growth and the efficiency of our company will be greatly decreased.
 
-In addition, it is unfair for employees whose work must be done at the office. It is universally acknowledged that working from home is much more comfortable than sitting in the office for the whole day. Therefore, the policy would become a privilege for those who can work remotely. It will develop a huge gap between different groups of employees which is extremely negative to our company culture.
+In addition, it is unequal for employees whose work must be done at the office. It is universally acknowledged that working from home is much more comfortable than sitting in the office for the whole day. Therefore, the policy would become a privilege for those who can work remotely. It will develop a huge gap between different groups of employees which is extremely negative to our company culture.
 
 To sum up, in order to have a better teamwork environment and working efficiency we would better not have the work-from-home choice policy.
+
+# Set 2 Test 1
+## Task 1
+### Read the following information.
+You live in a house near a park. Recently, a lot of teenagers have been meeting in the park at night. They are very noisy.
+### Write an email to the local government in about 150-200 words. Your email should do the following things:
+- Provide information about where you live.
+- Explain the problem and how it affects your life.
+- Suggest a way to solve the problem.
+
+### `My answer`
+To whom it may concern,
+
+I would like to register a complaint. I currently live in the Moreland Way Community. My house is located near a public park called River Oak Park. 
+
+Recently, a number of teenagers have been gathering in the park every night and cauding a lot of noise. Their yelling sometimes continued until midnight which made it difficult for me to fall asleep. Due to that I always feel extremely tired in the daytime. I am not the only one having that concern.  There are many senior citizens and children living in that community. The noise at night has many negative effects on their sleep and daily routine. I have already heard a lot of complaints from our neighbors. 
+
+For the whole wellness of our community, I would recommend setting an open time limitation from 6:00 am to 10:00 pm for the River Oak Park. In that way, residences could have a good sleep at night while teenagers can have good time daytime, which would be beneficial both for teenagers and residences. I think the policy will be supported by most residents in the community.
+
+Thank you for your time and consideration. Looking forward to hearing back from you.
+
+Best,
+
+Seven
+
+
