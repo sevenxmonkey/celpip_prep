@@ -105,7 +105,7 @@ You live in a house near a park. Recently, a lot of teenagers have been meeting 
 - Explain the problem and how it affects your life.
 - Suggest a way to solve the problem.
 
-### `My answer`
+### `My polished answer`
 To whom it may concern,
 
 I would like to register a complaint. I currently live in the Moreland Way Community. My house is located near a public park called River Oak Park. 
@@ -120,6 +120,9 @@ Best,
 
 Seven
 
+### `Sample answer`
+
+
 ## Task 2
 ### Read the following information.
 Field Trip Transportation
@@ -130,7 +133,7 @@ Your children’s grade 5 class teacher likes to take the children on field trip
 - Option A: Public Transit: I think it’s okay for children to travel on public transit.
 - Option B: School Buses: I would prefer children only travel on school buses.
 
-### `My answer`
+### `李思嘉姐姐求您帮我改这一篇，小心心`
 
 I think it is acceptable that 5th graders travel on public transit occasionally with their teachers' help because it not only is safe enough for students at that age but also has a positive impact on children's long-term development.
 
