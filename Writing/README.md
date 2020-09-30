@@ -137,7 +137,7 @@ Your children’s grade 5 class teacher likes to take the children on field trip
 
 I think it is acceptable that 5th graders travel on public transit occasionally with their teachers' help because it not only is safe enough for students at that age but also has a positive impact on children's long-term development.
 
-Firstly, it is a good opportunity for our kids to learn how to take public transit, which would be good preparation for their growing up and survival on their own. By showing kids how to buy tickets, where to find the transportation guide, and how to read the transit map of this city, students would learn a lot of knowledge and expand views on real society by their own eyes, which is different from that in textbooks. 
+Firstly, it is a good opportunity for our kids to learn how to take public transit, which would be good preparation for their growing up and survival on their own. By showing kids how to buy tickets, where to find the transportation guide, and how to read the transit map of this city, students would learn a lot of knowledge and expand views on real society by their own eyes, which is rarely gained just from the textbooks. 
 
 In addition, children in 5th grade are not too young to take the bus. They have had the basic ability to protect themself from the dangers that younger kids might face. Having been in school for 5 years,  teenagers are familiar with keeping the order and follow the guide from their teachers. 
 
