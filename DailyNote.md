@@ -1,3 +1,38 @@
+## 09/09/2020
+
+
+## 09/29/2020
+- `vaccine`
+- `offspring`
+- `immune` adj.免疫的
+- `reproduce` v.繁殖
+
+- `make a point`
+- `raise a point`
+- `present an idea`
+- `out forward an idea`
+- `come up with an idea`
+
+- `interstellar [ˌɪntərˈstelər]` 星际的
+- `by sourcing what we need from the destination`
+- `as the population grows, so does the energy demand, so does the resource consumption goes with it.` 
+
+As a domainent species, human consume nearly 50% of the earth resources. According to the biology theory, our ecosystem will collaps assuming that all of the resources and energy come from the same place, the earch.
+
+James came out with an idea that we can expand our ecosystem to the deep space thus solving the resource exhaustion problem. He presented a view to reverse the human supply chain.
+
+He said it is a shame to transport resources like water, fule, engery, construction material from the earth to the space station. It is something like if you want to build a house at the US, you purchase all the construction material from Europe and transport them to the destination. On the contrary, we should use locak materials. 
+
+The size of the satellite won't have the constraints.
+
+The logic problem. Since we realize that it is a huge waste to transport resource from the earth to the spacestation, why we still want to spend time and money to transport reversely. He states that construction material should come from the local. Why not the resource come from the space only serve people who live there?
+
+If the image he brount us is true. If the interstellar self-sufficient ecosystem come true, I believe a lot of people will chose to immigrant to the deep space. It might be a huge satellite city. It might be another asteroid like the Mars or some other planet from a remote galaxy. If those interstellar human have that ability and technology to source material and energy and develop manufacturing industry in the space, why they waste time to save the homeland of their ancestors.
+
+Mayflower Engliand
+Maritime navigation era.
+colony
+
 ## 09/20/2020
 - `shine`  n. 点亮。【过去式】`shone`
 - `pole` n. 极点，电极
