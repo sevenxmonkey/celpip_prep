@@ -87,13 +87,8 @@ Your company wants to allow some employees to work from home. Not everyone can h
 - Option A: A work-from-home choice is fair.
 - Option B: A work-from-home choice is not fair.
 
-<<<<<<< HEAD
 ### `Polished answer`
 Having partially employees work from home is harmful for our company culture as well as the long term development of all employees. It is not a fair policy for any company.
-=======
-### `李思嘉姐姐求您帮我改这一篇`
-I think a work-from-home choice is not fair because it is harmful for our company culture as well as the long term development of all employees. 
->>>>>>> c0fff3c48b5a347921166cf1861d0678fa907efa
 
 Firstly, Employees are very easy to skip their job duty without on-site supervision. It is difficult for managers to evaluate subordinates' work performances. From my personal experience, there are individuals who sometimes set their status to be "online" at the office APP but actually do their personal stuff, but finally get the same salary with those who work very hard. Therefore, both the employees' career growth and the efficiency of our company will be greatly decreased.
 
